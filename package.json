@@ -1,0 +1,19 @@
+{
+  "name": "procalparas",
+  "version": "1.0.0",
+  "description": "calculator by paras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paras-1999/npmcalculator.git"
+  },
+  "author": "paras saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paras-1999/npmcalculator/issues"
+  },
+  "homepage": "https://github.com/paras-1999/npmcalculator#readme"
+}
